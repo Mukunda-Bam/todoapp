@@ -10,29 +10,17 @@ body{
  justify-content: center;
  align-items:center;
  height: 100vh;
-<<<<<<< HEAD
  
-=======
- border: 5px solid red;
->>>>>>> f725214da015ae5c329f09257552252a65cd832e
 }
 .center-container{
   padding:70px;
   height: 500px;
   width:550px;
-<<<<<<< HEAD
   
-=======
-  border: 5px solid green;
->>>>>>> f725214da015ae5c329f09257552252a65cd832e
 
 }
 h1.app-heading{
   color:aquamarine;
   padding:40px;
-<<<<<<< HEAD
 
 }
-=======
-}
->>>>>>> f725214da015ae5c329f09257552252a65cd832e
